@@ -1,0 +1,9 @@
+keys.json
+reflexiones.json
+videos_usados.json
+estado_publicacion.json
+*.log
+*.mp4
+tmp/
+musica/
+__pycache__/
